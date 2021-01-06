@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 55555
 fix bug
 66666
+77777
